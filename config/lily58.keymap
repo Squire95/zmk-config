@@ -22,7 +22,7 @@
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp A &kp O &kp E &kp U &kp I &kp LS(D) &kp H &kp T &kp N &kp S &kp 1 &kp 2 &kp 3 &kp 4 &kp 5 &kp EXCLAMATION >
-        }
+        };
     };
 
     keymap {
